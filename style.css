@@ -452,13 +452,13 @@ footer li {
     }
 
     .simply-countdown>.simply-section {
-        padding: 40px;
-        margin: 2px;
+        padding: 30px;
+        margin: 1px;
     }
 
     .timeline li .timeline-image {
-        width: 80px;
-        height: 80px;
+        width: 70px;
+        height: 70px;
     }
 
     .timeline li .timeline-panel {
