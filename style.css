@@ -462,6 +462,10 @@ footer li {
         width: 45%;
     }
 
+    #offcanvasNavbarLabel {
+        font-size: 2.2rem;
+    }
+
     .timeline li .timeline-image {
         width: 80px;
         height: 80px;
